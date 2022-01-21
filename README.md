@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nicolás</h1>
 <h3 align="center">A passionate full stack developer from Argentina</h3>
 
+![Logo](https://github.com/DamianYerien/DamianYerien/blob/main/programando.gif?raw=true)
+
 - 🔭 I’m currently working on **my personal projects**
 
 - 🌱 I’m currently learning **TypeScript**
