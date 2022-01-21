@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicolás</h1>
 <h3 align="center">A passionate full stack developer from Argentina</h3>
 
-<img src = "https://raw.githubusercontent.com/nabratte/nabratte/ad67356c4d0e55b5115cfd7e45df3752bc209d26/Portada.gif" width = 50px>
+<img src = "https://raw.githubusercontent.com/nabratte/nabratte/ad67356c4d0e55b5115cfd7e45df3752bc209d26/Portada.gif" width = 600px>
 
 - 🔭 I’m currently working on **my personal projects**
 
